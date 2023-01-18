@@ -17,7 +17,7 @@ txt = 'Hello word'
 
 gambar 
 
-[png1](png1.png)
+![png1](png1.png)
 
 
 ## latihan 
@@ -36,7 +36,7 @@ print(text.replace('....','21'))
 ```
 gambar
 
-[png2](png2.png)
+![png2](png2.png)
 
 
 ## sekian terimakasih
